@@ -1,4 +1,4 @@
-package company.tap.commondatamodelskit_android
+package company.tap.commonmodels
 
 import com.google.gson.annotations.SerializedName
 

@@ -1,2 +1,3 @@
 rootProject.name='CommonDataModelsKit-Android'
 include ':app'
+include ':commonmodels'
